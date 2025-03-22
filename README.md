@@ -53,10 +53,6 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 <br/>
 
-<a href="https://github.com/joaovitoroliv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitoroliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoroliv&layout=compact&langs_count=6&theme=dracula "/>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitoroliv/)
