@@ -53,6 +53,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ![Badge](https://github-readme-stats.vercel.app/api?username=joaovitoroliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
 ![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoroliv&layout=compact&langs_count=6&theme=dracula)
 
 ## Onde me encontrar
