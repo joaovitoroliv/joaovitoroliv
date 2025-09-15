@@ -5,7 +5,7 @@
 
 - 🌱 Aprendendo mais sobre Algoritmos, Estrutura de Dados e Arquitetura de Software.
 - 🎓 Estudando Arquitetura de Software na PUC Minas.
-- 💼 Trabalhando como Assistente de Desenvolvimento de Software na Efí.
+- 💼 Trabalhando como Desenvolvedor de Software na Efí.
 
 ## Minhas Skills
 
